@@ -1,0 +1,66 @@
+ [
+  {
+    "id": 1,
+    "name": "Nandhini",
+    "username": "Nandy",
+    "email": "nanisarathy@gmail.com",
+    "password":"",
+    "pic":"./shiva.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Deepak",
+    "username": "Bi Bro",
+    "email": "deepu.slm@gmail.com",
+    "password":"",
+	"pic":"shiva.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Monishaa",
+    "username": "Moni",
+    "email": "moni@gmail.com",
+    "password":"",
+	"pic":"shiva.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Pradeep",
+    "username": "Aunty",
+    "email": "aunty@redlight.com",
+    "password":"",
+	"pic":"shiva.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Niranjana",
+    "username": "Ninja",
+    "email": "niranjana@gmail.com",
+    "password":"",
+	"pic":"shiva.jpg"
+  },
+  {
+    "id": 6,
+    "name": "John Paul",
+    "username": "Jon",
+    "email": "jon@gmail.com",
+    "password":"",
+	"pic":"shiva.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Prakash",
+    "username": "Homo",
+    "email": "Telly.Hoeger@billy.biz",
+    "password":"",
+	"pic":"shiva.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Nivesh",
+    "username": "Mayilu",
+    "email": "Sherwood@rosamond.me",
+    "password":"",
+	"pic":"shiva.jpg"
+  }
+]
